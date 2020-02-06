@@ -1,6 +1,6 @@
 package entities;
 
-//Criar uma calsse Products
+//Criar uma calsse Products com seus atributos e metodos
 
 public class Products {
 	public String name;
